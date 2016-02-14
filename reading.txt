@@ -2,4 +2,4 @@ hello world
 you are the hero
 no things to do
 
-wo was error yes/no
+wo was error yes/no  of cause select yes!
